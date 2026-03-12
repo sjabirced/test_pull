@@ -1,2 +1,2 @@
 # test_pull
-this project is for testing the pull command with ahmed Aand somaya
+this project is for testing the pull command with ahmed Aand somaya and hassan
